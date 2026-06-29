@@ -1,4 +1,4 @@
-package com.example.pr21sherbakov;
+package com.example.PR21_Aristov;
 
 
 import android.content.Context;

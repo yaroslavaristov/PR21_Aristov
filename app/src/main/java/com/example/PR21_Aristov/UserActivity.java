@@ -1,4 +1,4 @@
-package com.example.pr21sherbakov;
+package com.example.PR21_Aristov;
 
 import android.content.ContentValues;
 import android.content.Intent;
@@ -10,6 +10,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.pr21sherbakov.R;
 
 public class UserActivity extends AppCompatActivity {
     EditText nameBox, yearBox;
